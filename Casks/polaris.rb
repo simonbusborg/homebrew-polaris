@@ -1,6 +1,6 @@
 cask "polaris" do
-  version "2.8.1"
-  sha256 "a7c6ddb643758f1dce0849278b8919f0b876f0ee0a19698024b1362bef8924dd"
+  version "2.8.2"
+  sha256 "1cfc357eb186c81cf56a17e7b6c1b490519aca2f1db4f71cc30d3b817fdffe4c"
 
   url "https://github.com/simonbusborg/polaris/releases/download/v#{version}/Polaris.dmg"
   name "Polaris"
